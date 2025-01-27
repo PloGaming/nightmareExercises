@@ -1,0 +1,1 @@
+python -c 'import sys; sys.stdout.buffer.write(str)' > input
